@@ -1,7 +1,5 @@
 # Exercício de mock: projeto mock-leilao
 
-[Link para o exercício no GitHub Classroom](https://classroom.github.com/g/5okMX9ub) (veja o prazo da atividade no link)
-
 O projeto `mock-leilao` é um gerenciador de leilões. A classe `EncerradorDeLeilao` é responsável por encerrar os leilões iniciados há pelo menos 7 dias (método `encerra()`). Ela colabora com objetos que implementam as seguintes interfaces: 
 
 - `RepositorioDeLeiloes`: fornece acesso aos leilões armazenados em alguma fonte de dados (por exemplo, um banco de dados). Essa interface especifica um DAO (*data access object*). Métodos:
