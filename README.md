@@ -20,6 +20,8 @@ Sua tarefa é implementar 4 testes para o método `encerra()` da classe `Encerra
 
 O script de correção do exercício está disponível para download: [testa-mock-leilao.rb](testa-mock-leilao.rb). Trata-se de um script escrito em Ruby, que deve ser executado na raiz do projeto Java. O script cria mutantes e executa os testes; espera-se que cada mutante provoque a falha de um teste.
 
+O script de correção faz operações no repositório Git local; por isso, é recomendável executá-lo em uma cópia do repositório criada somente para fins de correção. Executá-lo sobre o diretório de trabalho pode trazer consequência indesejadas.
+
 # Solução
 
 Um exemplo de solução para o exercício encontra-se em <https://github.com/matb25-20182/mock-leilao-professor/> (disponível apenas para professores)
